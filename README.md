@@ -20,9 +20,11 @@ Dùng POST MAN để sử dụng các chức năng PUSH, GET, PUT, DELETE
 
 #DELETE - Xoá dữ liệu                                                                                                                                    
 * Dữ liệu ban đầu khi chưa xoá:                                                                                                                              
-<img width="846" height="691" alt="image" src="https://github.com/user-attachments/assets/75c64d65-09fb-4c9a-b648-dab7944bfaf7" />                           
+<img width="846" height="691" alt="image" src="https://github.com/user-attachments/assets/75c64d65-09fb-4c9a-b648-dab7944bfaf7" />
+                          
 * Thông báo dữ liệu đã xoá:                                                                                                                                  
-<img width="820" height="678" alt="image" src="https://github.com/user-attachments/assets/74d3e337-aa21-4bbd-86bd-8def9bfd7b6e" />                          
+<img width="820" height="678" alt="image" src="https://github.com/user-attachments/assets/74d3e337-aa21-4bbd-86bd-8def9bfd7b6e" />
+
 * Dữ liệu sau khi đã xoá:                                                                                                                                    
 <img width="810" height="689" alt="image" src="https://github.com/user-attachments/assets/4009145d-54d6-4e2f-9522-6339ae9a8436" />                           
 
